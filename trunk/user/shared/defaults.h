@@ -37,12 +37,12 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	"YSX5"
-#define DEF_WLAN_5G_SSID	"YSX5"
+#define DEF_WLAN_2G_SSID	"China"
+#define DEF_WLAN_5G_SSID	"China"
 #define DEF_WLAN_2G_GSSID	"China"
 #define DEF_WLAN_5G_GSSID	"China"
-#define DEF_WLAN_2G_PSK		"13594759."
-#define DEF_WLAN_5G_PSK		"13594759."
+#define DEF_WLAN_2G_PSK		"12345678"
+#define DEF_WLAN_5G_PSK		"12345678"
 
 #define DEF_ROOT_PASSWORD	"admin"
 #define DEF_SMB_WORKGROUP	"WORKGROUP"
