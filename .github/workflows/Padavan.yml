@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-22.04
     if: ${{ !(github.event_name == 'push' && startsWith(github.ref, 'refs/tags/')) }}
     env:
-      targets: "DIR-882"
+      targets: "RM2100"
     steps:
       - uses: actions/checkout@master
       - name: Prepare environment
